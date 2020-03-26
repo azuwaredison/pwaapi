@@ -1,6 +1,6 @@
 {
-"products": [
-[{"id":1,"name":"African red-eyed bulbul","category":"Aquamarine"},
+  "products": [
+{"id":1,"name":"African red-eyed bulbul","category":"Aquamarine"},
 {"id":2,"name":"Mongoose, javan gold-spotted","category":"Fuscia"},
 {"id":3,"name":"Red-breasted cockatoo","category":"Purple"},
 {"id":4,"name":"Australian magpie","category":"Khaki"},
@@ -19,36 +19,6 @@
 {"id":17,"name":"Western pygmy possum","category":"Turquoise"},
 {"id":18,"name":"Pied crow","category":"Maroon"},
 {"id":19,"name":"Kingfisher, pied","category":"Blue"},
-{"id":20,"name":"Indian peacock","category":"Puce"},
-{"id":21,"name":"Gecko, barking","category":"Turquoise"},
-{"id":22,"name":"Savannah deer (unidentified)","category":"Puce"},
-{"id":23,"name":"Zebra, common","category":"Khaki"},
-{"id":24,"name":"Red-necked phalarope","category":"Pink"},
-{"id":25,"name":"Bustard, stanley","category":"Aquamarine"},
-{"id":26,"name":"Dragon, frilled","category":"Orange"},
-{"id":27,"name":"Steller sea lion","category":"Violet"},
-{"id":28,"name":"Weaver, red-billed buffalo","category":"Blue"},
-{"id":29,"name":"White-necked raven","category":"Orange"},
-{"id":30,"name":"Deer, swamp","category":"Mauv"},
-{"id":31,"name":"Tortoise, asian foreset","category":"Green"},
-{"id":32,"name":"Owl, madagascar hawk","category":"Mauv"},
-{"id":33,"name":"Beaver, european","category":"Red"},
-{"id":34,"name":"Yellow-throated sandgrouse","category":"Violet"},
-{"id":35,"name":"Laughing dove","category":"Crimson"},
-{"id":36,"name":"Magpie, black-backed","category":"Violet"},
-{"id":37,"name":"Blue-breasted cordon bleu","category":"Maroon"},
-{"id":38,"name":"Cape fox","category":"Teal"},
-{"id":39,"name":"Margay","category":"Fuscia"},
-{"id":40,"name":"Golden brush-tailed possum","category":"Purple"},
-{"id":41,"name":"Savannah deer (unidentified)","category":"Red"},
-{"id":42,"name":"African bush squirrel","category":"Red"},
-{"id":43,"name":"Water moccasin","category":"Violet"},
-{"id":44,"name":"Asian openbill","category":"Yellow"},
-{"id":45,"name":"Eastern diamondback rattlesnake","category":"Orange"},
-{"id":46,"name":"Mouse, four-striped grass","category":"Blue"},
-{"id":47,"name":"Owl, snowy","category":"Red"},
-{"id":48,"name":"Gull, herring","category":"Purple"},
-{"id":49,"name":"Hummingbird (unidentified)","category":"Mauv"},
-{"id":50,"name":"Common zorro","category":"Maroon"}
+{"id":20,"name":"Indian peacock","category":"Puce"}
 ]
 }
